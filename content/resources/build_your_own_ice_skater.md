@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 3b507832-4741-5a15-9532-80b441d9bc34
 resourcetype: Document
 title: Build Your Own Ice Skater
 uid: 513b933d-b371-b5d2-7e87-d53e33878879

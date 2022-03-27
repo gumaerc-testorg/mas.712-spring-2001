@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 3b507832-4741-5a15-9532-80b441d9bc34
 resourcetype: Document
 title: 'Droppin Science: Making Music & Math'
 uid: f56e0b02-b547-c316-b91f-6cb5fc4c3fd7
