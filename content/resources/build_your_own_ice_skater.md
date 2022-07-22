@@ -8,6 +8,7 @@ file: /courses/mas-712-how-to-learn-almost-anything-spring-2001/513b933db371b5d2
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Build Your Own Ice Skater
 uid: 513b933d-b371-b5d2-7e87-d53e33878879
 ---
 Example of a student final project. Students originally presented their final projects as interactive websites. Due to copyright restrictions, however, samples of these websites are shown here as PDF documents. This project is courtesy of Bryan Adams, Marco Monroy, and Jared Schiffman.
-
