@@ -5,6 +5,7 @@ description: Example of a student final project. Students originally presented t
   samples of these websites are shown here as PDF documents. This project is courtesy
   of Bryan Adams, Marco Monroy, and Jared Schiffman.
 file: /courses/mas-712-how-to-learn-almost-anything-spring-2001/513b933db371b5d27e87d53e33878879_Build_Your_Own_Ice_Skater.pdf
+file_size: 589861
 file_type: application/pdf
 learning_resource_types:
 - Projects

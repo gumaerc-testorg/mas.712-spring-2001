@@ -5,6 +5,7 @@ description: Example of a student final project. Students originally presented t
   samples of these websites are shown here as PDF documents. This project is courtesy
   of Stephanie Boutin, Miranda McGill, and Leila Toplic.
 file: /courses/mas-712-how-to-learn-almost-anything-spring-2001/5cd88e239a516386d7decaf535153b59_Build_Your_Own_Timepiece.pdf
+file_size: 351683
 file_type: application/pdf
 learning_resource_types:
 - Projects

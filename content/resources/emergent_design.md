@@ -5,6 +5,7 @@ description: Example of a student final project. Students originally presented t
   samples of these websites are shown here as PDF documents. This project is courtesy
   of Jose Maria Gonzalez Pinto, Marco Escobedo, Edison Thomaz and Nausheen Eusuf.
 file: /courses/mas-712-how-to-learn-almost-anything-spring-2001/30450bdf487008ab51ea6cb17ac2ef81_Emergent_Design.pdf
+file_size: 143550
 file_type: application/pdf
 learning_resource_types:
 - Projects

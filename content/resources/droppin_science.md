@@ -6,6 +6,7 @@ description: Example of a student final project. Students originally presented t
   of Virginia Eubanks, Tristan Jehan, Maddy Kadish, Egon Pasztor, Elisabeth Sylvan,
   and Catherine Vaucelle.
 file: /courses/mas-712-how-to-learn-almost-anything-spring-2001/f56e0b02b547c316b91f6cb5fc4c3fd7_Droppin_Science.pdf
+file_size: 242302
 file_type: application/pdf
 learning_resource_types:
 - Projects
