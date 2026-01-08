@@ -48,14 +48,14 @@ Brown, J. S., A. Collins, and P. Duguid. "Situated Cognition and the Culture of 
 {{< tdclose >}}{{< tdopen >}}
 Powerful Ideas and Fluency
 {{< tdclose >}}{{< tdopen >}}
-Papert, S. "{{% resource_link "c2264fa1-846b-449e-97fd-5bdfd7ae45d5" "What's the Big Idea: Towards a Pedagogy of Idea Power" %}}." *IBM Systems Journal* 39, no. 3-4 (1991).
+Papert, S. "[What's the Big Idea: Towards a Pedagogy of Idea Power](http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=5387030)." *IBM Systems Journal* 39, no. 3-4 (1991).
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
 {{< tdclose >}}{{< tdopen >}}
 Learning "On Your Own"
 {{< tdclose >}}{{< tdopen >}}
 
-Selected readings from the {{% resource_link "86929abe-720b-4d08-bef2-efce47a064d0" "Growing Without Schooling" %}} newsletter.
+Selected readings from the [Growing Without Schooling](https://www.johnholtgws.com/gws-stories) newsletter.
 
 Holt, John. *Learning All the Time*. Addison Wesley Publishing Company, August 1, 1990. ISBN: 9780201550917.
 
@@ -69,7 +69,7 @@ Martin, F. "The Art of LEGO Design." *The Robotics Practitioner: The Journal for
 
 Resnick, M., A. Bruckman, and F. Martin. "Pianos Not Stereos: Creating Computational Construction Kits." *Interactions* 3, no. 6 (1996): 64-71.
 
-Martin, F., B. Mikhak, and B. Silverman. "{{% resource_link "e394a32e-ec37-42db-8a36-58c148885fd5" "MetaCricket: A Designer's Kit for Making Computational Devices" %}}." *IBM Systems Journal* 39, no. 3-4 (2001).
+Martin, F., B. Mikhak, and B. Silverman. "[MetaCricket: A Designer's Kit for Making Computational Devices](https://ieeexplore.ieee.org/document/5387028)." *IBM Systems Journal* 39, no. 3-4 (2001).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
